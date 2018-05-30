@@ -11,7 +11,7 @@ This project includes a file showing an output that is clearly biased and deceiv
 
 ### Running
 
-Run <code>jupyter notebook</code> in terminal and open the notbook. The main file is the <code>Predict_Stocks</code> (1).ipynb file.
+Run <code>jupyter notebook</code> in terminal and open the notbook. The main file is the <code>Predict_Stocks(1).ipynb</code> file.
 
 ### Acknowledgments
 
