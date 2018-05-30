@@ -15,4 +15,4 @@ Run <code>jupyter notebook</code> in terminal and open the notbook. The main fil
 
 ### Acknowledgments
 
-* Much of this code has been inspired by and learned from Siraj Raval's image prediction tutorials and Keras documentation. The lstm.py file has been utilized from llSourcell (Ravel's github) and altered to effectively be used in my program. This file is part of a coding challenge by Ravel.
+* Much of this code has been inspired by and learned from Siraj Raval's prediction tutorials and Keras documentation. The lstm.py file has been utilized from llSourcell (Ravel's github) and altered to effectively be used in my program. This file is part of a coding challenge by Ravel.
