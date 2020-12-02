@@ -1,4 +1,4 @@
-#Boxing Bout Predictions
+# Boxing Bout Predictions
 
 Personal project for predicting winning boxers based on scraped BoxRec data (https://boxrec.com/)
 
