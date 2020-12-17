@@ -1,3 +1,6 @@
 # Malaria Cell Detection
 
-This project includes code for the ingestion, preprocessing, classification and model evaluation for detecting parasitized malaria cells using microscopic images from Africa. Included as well is a report on the results and techniques used (Convolution and blob detection)
+This project includes code for the ingestion, preprocessing, classification, and model evaluation for detecting parasitized malaria cells using microscopic images from Africa. Convolution and Blob Detection were the primary techniques used.
+
+See Report.pdf for breakdown of approaches, techniques, and results.
+
